@@ -66,4 +66,5 @@ B站视频分析器 2.0 是一个基于 Python 开发的图形化应用程序，
 
 ---
 
-#该项目采用 Apache 2.0 开源协议，由Stubborn_Li（倔强的李）[QQ](https://qm.qq.com/q/wUsevOXY1G)[bilibili](https://space.bilibili.com/2136004536)[GitHub](https://github.com/qwas111/)开发维护。
+
+#本项目采用 Apache 2.0 许可证，[由网舰科技工作室](https://nanet.ct.ws)发布，由Stubborn_Li（倔强的李）（[QQ](https://qm.qq.com/q/wUsevOXY1G)|[bilibili](https://space.bilibili.com/2136004536)|[GitHub](https://github.com/qwas111/)）开发维护。
